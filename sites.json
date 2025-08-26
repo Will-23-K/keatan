@@ -1,0 +1,47 @@
+[
+  {
+    "id": "site-za-hydro",
+    "name": "South Africa - Hydro Grid",
+    "region": "ZA",
+    "capacity_mw": 50,
+    "cost_per_kwh": 0.04,
+    "carbon_gco2_per_kwh": 50,
+    "renewable_pct": 0.9
+  },
+  {
+    "id": "site-iceland",
+    "name": "Iceland - Geothermal",
+    "region": "IS",
+    "capacity_mw": 40,
+    "cost_per_kwh": 0.03,
+    "carbon_gco2_per_kwh": 10,
+    "renewable_pct": 0.98
+  },
+  {
+    "id": "site-norway",
+    "name": "Norway - Hydro+Wind",
+    "region": "NO",
+    "capacity_mw": 60,
+    "cost_per_kwh": 0.035,
+    "carbon_gco2_per_kwh": 20,
+    "renewable_pct": 0.95
+  },
+  {
+    "id": "site-us-solar",
+    "name": "US Southwest - Solar + Storage",
+    "region": "US",
+    "capacity_mw": 30,
+    "cost_per_kwh": 0.025,
+    "carbon_gco2_per_kwh": 40,
+    "renewable_pct": 0.8
+  },
+  {
+    "id": "site-sa-wind",
+    "name": "South Africa - wind farm",
+    "region": "ZA",
+    "capacity_mw": 25,
+    "cost_per_kwh": 0.03,
+    "carbon_gco2_per_kwh": 30,
+    "renewable_pct": 0.9
+  }
+]
